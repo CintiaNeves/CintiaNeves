@@ -19,7 +19,7 @@
 
 ## Trabalho 🔭
 
-Atuo no momento como desenvolvedora Java backend na empresa Ótica Golden Mix.
+Desenvolvedora Java backend junior integrante do time Normandia no contexto de logística do PagSeguro na empresa Invillia.
 
 ## Comunidades 👯
 
