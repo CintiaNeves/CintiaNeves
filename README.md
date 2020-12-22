@@ -19,7 +19,7 @@
 
 ## Trabalho 🔭
 
-Desenvolvedora Java backend junior integrante do time Normandia no contexto de logística do PagSeguro na empresa Invillia.
+Desenvolvedora Java backend integrante do time Normandia no contexto de logística do PagSeguro na empresa Invillia.
 
 ## Comunidades 👯
 
