@@ -29,11 +29,6 @@ Devs JavaGirl
 
 Mercado financeiro - Investimentos 
 
-
-## Lendo no momento 🌱
-
-Ocp Java Se 11 Programmer I Exam Fundamentals / Clean Code 
-
 <!--
 **CintiaNeves/CintiaNeves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
